@@ -6,3 +6,8 @@
 }
 
 
+.image{
+  width:700px;
+   height:745px;
+   object-fit: cover;
+}
