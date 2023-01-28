@@ -8,7 +8,7 @@ function App() {
       <img src="../../public/prueba1.png" className='image' alt="bebidas-cervezas-cubos" />
       <img src="../../public/prueba2.png" className='image' alt="cocktails" />
       <img src="../../public/prueba3.png" className='image' alt="combinados" />
-      <img src="../../public/prueba4.png" className='image' alt="tapas" />
+      <img src="../../public/gatito.png" className='image' alt="tapas" />
     </div>
     </>
   )
